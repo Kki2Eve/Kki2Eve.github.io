@@ -39,7 +39,7 @@ I graduated from Southwest Jiaotong University in 2020 with a bachelor's degree 
 
 **Liqiong Wang**, Jinyu Yang, Yanfu Zhang, Fangyi Wang, Feng Zheng
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-critical)](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Depth-Aware_Concealed_Crop_Detection_in_Dense_Agricultural_Scenes_CVPR_2024_paper.pdf) [![Code](https://img.shields.io/badge/Code-RISNet-lightgreen?logo=github)](https://github.com/Kki2Eve/RISNet) [![Data](https://img.shields.io/badge/Data-%F0%9F%A4%97%20ACOD--12K-blue)](https://github.com/Kki2Eve/RISNet)
+[![Paper](https://img.shields.io/badge/Paper-PDF-critical)](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Depth-Aware_Concealed_Crop_Detection_in_Dense_Agricultural_Scenes_CVPR_2024_paper.pdf) [![Code](https://img.shields.io/badge/Code-RISNet-lightgreen?logo=github)](https://github.com/Kki2Eve/RISNet) [![Data](https://img.shields.io/badge/Data-%F0%9F%A4%97%20ACOD--12K-blue)](https://huggingface.co/datasets/Kki11/ACOD-12K)
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 </div>
